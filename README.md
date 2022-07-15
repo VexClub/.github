@@ -1,5 +1,4 @@
 # VexMC
-  Description 
   VexMC is an upcoming bedwars and mini-games server featuring unique features. We have the ability to scale infinitly!!!
 
   ## Table of Contents
