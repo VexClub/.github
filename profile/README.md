@@ -1,5 +1,5 @@
 # VexMC
-  VexMC is an upcoming bedwars and mini-games server featuring unique features. We have the ability to scale infinitly!!!
+  VexMC is an upcoming kitpvp, bedwars, and mini-games server featuring unique features. We have the ability to scale infinitly!!!
 
   ## Table of Contents
   * [Contributing](#contributing)
